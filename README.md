@@ -3,9 +3,6 @@
 <h1 align="center">Hey there!! I'm Harshit Mishra.</h1>
 <h3 align="center">A Student & Full Stack Cloud Developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=parth-exe&label=Profile%20views&color=0e75b6&style=flat" alt="parth-exe" /> </p>
-
-- 🌱 I’m currently learning **PERN Stack**
 
 - 📫 How to reach me **harshitmishra.inbox@gmail.com**
 
@@ -15,11 +12,11 @@
 <a href="www.linkedin.com/in/harshit-mishra-4a3039214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshit-mishra" height="30" width="40" /></a>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parth-exe&show_icons=true&locale=en&layout=compact" alt="parth-exe" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshitmishra0&show_icons=true&locale=en&layout=compact" alt="harshitmishra0" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parth-exe&show_icons=true&locale=en" alt="parth-exe" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshitmishra0&show_icons=true&locale=en" alt="harshitmishra0" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parth-exe&" alt="parth-exe" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitmishra0&" alt="harshitmishra0" /></p>
 
 
 <!---
