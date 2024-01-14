@@ -1,4 +1,4 @@
-![GitHub Views](https://komarev.com/ghpvc/?username=<harshitmishra0>)
+![GitHub Views](https://komarev.com/ghpvc/?username=harshitmishra0)
 
 
 <!---
