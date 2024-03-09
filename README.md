@@ -1,7 +1,7 @@
 ![GitHub Views](https://komarev.com/ghpvc/?username=harshitmishra0)
 
 <h1 align="center">Hey there!! I'm Harshit Mishra.</h1>
-<h3 align="center">A Student & Full Stack Cloud Developer.</h3>
+<h3 align="center">A Student & a Full Stack Cloud Developer.</h3>
 
 
 - 📫 How to reach me **harshitmishra.inbox@gmail.com**
