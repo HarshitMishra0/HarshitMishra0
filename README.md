@@ -4,9 +4,6 @@
   <img src="https://github.com/harshitmishra0/harshitmishra0/blob/main/assets/coding.gif" alt="Coding Animation" width="100"/>
 </p>
 <p align="center">
-  <a href="https://twitter.com/harshit4India" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
   <a href="https://www.linkedin.com/in/harshit-mishra-4a3039214" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -17,6 +14,7 @@
 💻 In frontend development, I use React.
 ✨ I am also familiar with HTML, CSS, and JavaScript.
 ☁️ For deployment, I use AWS.
+🛢️ I have experience with MySQL, Docker, and Apache Kafka.
 📫 Reach me at harshitmishra.inbox@gmail.com.
 🛠️ Languages and Tools
 <p align="left">
@@ -27,6 +25,9 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Badge"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Badge"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge"/>
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Apache Kafka Badge"/>
 </p>
 📈 GitHub Stats
 <p align="center">
@@ -36,11 +37,14 @@
 </p>
 🌐 Connect with Me
 <p align="left">
-  <a href="https://twitter.com/harshit4India" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
   <a href="https://www.linkedin.com/in/harshit-mishra-4a3039214" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://codeforces.com/profile/harshitmishra" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Badge"/>
+  </a>
+  <a href="https://leetcode.com/harshitmishra" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
   </a>
   <a href="mailto:harshitmishra.inbox@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
