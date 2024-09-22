@@ -8,9 +8,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </p>
- About Me
 I am a programmer skilled in Java and proficient in Data Structures and Algorithms (DSA).
-🌐 In backend development, I work with SpringBoot.
+In backend development, I work with SpringBoot.
 In frontend development, I use React.
 I am also familiar with HTML, CSS, and JavaScript.
 For deployment, I use AWS.
