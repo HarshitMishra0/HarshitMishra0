@@ -8,15 +8,15 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </p>
-👨‍💻 About Me
-💻 I am a programmer skilled in Java and proficient in Data Structures and Algorithms (DSA).
+ About Me
+I am a programmer skilled in Java and proficient in Data Structures and Algorithms (DSA).
 🌐 In backend development, I work with SpringBoot.
-💻 In frontend development, I use React.
-✨ I am also familiar with HTML, CSS, and JavaScript.
-☁️ For deployment, I use AWS.
-🛢️ I have experience with MySQL, Docker, and Apache Kafka.
-📫 Reach me at harshitmishra.inbox@gmail.com.
-🛠️ Languages and Tools
+In frontend development, I use React.
+I am also familiar with HTML, CSS, and JavaScript.
+For deployment, I use AWS.
+I have experience with MySQL, Docker, and Apache Kafka.
+Reach me at harshitmishra.inbox@gmail.com.
+Languages and Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge"/>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="SpringBoot Badge"/>
